@@ -1,6 +1,6 @@
 # Video High-Level Features & Causal Detection in submission  
 
-C.-H. Huck Yang et al.
+C.-H. Huck Yang, Rise Ooiet al.
 
 EPFL, Georgia Tech 2018
 
