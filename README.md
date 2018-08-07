@@ -4,7 +4,7 @@ C.-H. Huck Yang, Rise Ooi et al.
 
 EPFL, Georgia Tech 2018
 
-## Deep Video Learning Demo 1 : Cartoon Movie Trailer - **The Boss Baby** 2017
+## Deep Video Learning Demo 1 : Cartoon Movie Trailer - [**The Boss Baby** 2017](https://www.youtube.com/watch?v=tquIfapGVqs)
 
 ![image](https://github.com/huckiyang/Video_Causal_Detect/blob/master/5secboss_baby.gif)
 
