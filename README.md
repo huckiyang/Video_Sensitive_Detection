@@ -1,7 +1,5 @@
 # Video High-Level Features & Causal Detection in submission  
 
-C.-H. Huck Yang et al.
-
 EPFL, Georgia Tech 2018
 
 ## Deep Video Learning Demo 1 : Cartoon Movie Trailer - [**The Boss Baby** (2017)](https://www.youtube.com/watch?v=tquIfapGVqs)
