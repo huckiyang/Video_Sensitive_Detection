@@ -15,3 +15,10 @@ Only for educational demo with VGG16+VGGsih+Text - val_acc: **82.46%**
 ![image](https://github.com/huckiyang/Video_Causal_Detect/blob/master/jojo_14.gif)
 
 Only for educational demo with VGG16+VGGsih+Text - val_acc: **91.28%**
+
+
+## Deep Frame Learning Demo 1 : R-Comedy Movie Trailer - [**NAKED** 2018](https://www.youtube.com/watch?v=sb9KEuppbX8)
+
+![image](https://github.com/huckiyang/Video_Causal_Detect/blob/master/jojo_14.gif)
+
+Only for educational demo with ResNet - val_acc: **93.73%**
