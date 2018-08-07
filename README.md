@@ -1,4 +1,4 @@
-# Video High-Level Features & Causal Effect Detection to AAAI 2019 
+# Video High-Level Features & Causal Detection to AAAI 2019 
 
 ## Deep Video Learning Demo 1 : Cartoon Movie Trailer - **The Boss Baby** 2017
 
