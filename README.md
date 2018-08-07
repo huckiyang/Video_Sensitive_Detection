@@ -10,7 +10,7 @@ EPFL, Georgia Tech 2018
 
 Only for educational demo with VGG16+VGGsih+Text - val_acc: **82.46%**
 
-## Deep Video Learning Demo 2 : Action Movie Trailer - **ジョジョの奇妙な冒険** 2017 
+## Deep Video Learning Demo 2 : Action Movie Trailer - [**ジョジョの奇妙な冒険** 2017](https://www.youtube.com/watch?v=R3ivFhgcLEY)
 
 ![image](https://github.com/huckiyang/Video_Causal_Detect/blob/master/jojo_14.gif)
 
