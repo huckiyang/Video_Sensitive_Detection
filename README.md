@@ -6,7 +6,7 @@ EPFL, Georgia Tech 2018
 
 ![image](https://github.com/huckiyang/Video_Causal_Detect/blob/master/5secboss_baby.gif)
 
-- PG-13 score (Blue) increasing for the naked baby 
+- PG score (Blue) increasing for the naked baby out of G (Green)
 
 Only for educational demo with VGG16+VGGsih+Text - val_acc: **82.46%**
 
@@ -14,7 +14,7 @@ Only for educational demo with VGG16+VGGsih+Text - val_acc: **82.46%**
 
 ![image](https://github.com/huckiyang/Video_Causal_Detect/blob/master/jojo_14.gif)
 
-- R score (Red) increasing with the gore man 
+- R score (Red) increasing with the gore man out of PG-13 (Orange)
 
 Only for educational demo with VGG16+VGGsih+Text - val_acc: **91.28%**
 
@@ -25,4 +25,4 @@ Only for educational demo with VGG16+VGGsih+Text - val_acc: **91.28%**
 
 Only for educational demo with ResNet - val_acc: **93.73%**
 
-- Nudity detection with the (Red) 
+- Nudity detection with the Wave Peaks (Red) 
