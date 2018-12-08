@@ -1,6 +1,6 @@
 # Video High-Level Features & Causal Detection in submission  
 
-EPFL, Georgia Tech 2018
+EPFL, Georgia Tech, Aug 2018
 
 ## Deep Video Learning Demo 1 : Cartoon Movie Trailer - [**The Boss Baby** (2017)](https://www.youtube.com/watch?v=tquIfapGVqs)
 
