@@ -1,6 +1,6 @@
 # Video High-Level Features & Causal Detection in submission  
 
-EPFL, Georgia Tech, Aug 2018
+C.-H. Huck Yang
 
 - Demo only
 
