@@ -1,4 +1,4 @@
-# Video High-Level Features & Causal Detection in submission  
+# Video High-Level Features & Causal Detection
 
 C.-H. Huck Yang
 
