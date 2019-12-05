@@ -2,7 +2,7 @@
 
 C.-H. Huck Yang
 
-- Demo only, Confidential
+- Demo only
 
 ## Deep Video Learning Demo 1 : Cartoon Movie Trailer - [**The Boss Baby** (2017)](https://www.youtube.com/watch?v=tquIfapGVqs)
 
